@@ -3,7 +3,9 @@
 # ¡Hola! Soy Preo
 
 🎮 Me gusta jugar videojuegos
-💻 Me interesa mucho la programación y aprender cosas nuevas de tecnología  
+
+💻 Me interesa mucho la programación y aprender cosas nuevas de tecnología
+
 🚴‍♂️ Mi deporte favorito es el ciclismo de ruta.
 
 ## 💻 Proyectos destacados
