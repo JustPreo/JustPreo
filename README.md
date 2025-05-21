@@ -2,17 +2,17 @@
 
 # ¡Hola! Soy Preo
 
-🎮 Me gusta jugar videojuegos (de todo tipo, siempre que sean divertidos)  
+🎮 Me gusta jugar videojuegos
 💻 Me interesa mucho la programación y aprender cosas nuevas de tecnología  
-🚴‍♂️ Mi deporte favorito es el ciclismo de ruta, nada como rodar y despejar la mente
+🚴‍♂️ Mi deporte favorito es el ciclismo de ruta.
 
-## 💻 Proyecto destacado
+## 💻 Proyectos destacados
 
 [![Caja Registradora](https://img.shields.io/badge/Caja%20Registradora-Proyecto%20Universidad-green?style=flat-square&logo=github)](https://github.com/JustPreo/ProyectoCajaRegistradora/)
 
 *Mi primer proyecto de programación de la universidad.*
 
-## 📫 Conecta conmigo
+## 📫 Redes Sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Sebastian%20Cerrato%20Chinchilla-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aaron-sebastian-cerrato-chinchilla-68540824a/)
 
