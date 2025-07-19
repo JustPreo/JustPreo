@@ -11,8 +11,13 @@
 ## 💻 Proyectos destacados
 
 [![Caja Registradora](https://img.shields.io/badge/Caja%20Registradora-Proyecto%20Universidad-green?style=flat-square&logo=github)](https://github.com/JustPreo/ProyectoCajaRegistradora/)
-
 *Mi primer proyecto de programación de la universidad.*
+
+
+[![Marvel Stratego](https://img.shields.io/badge/Marvel%20Stratego-Proyecto%20Universidad-purple?style=flat-square&logo=game-controller)](https://github.com/JustPreo/ProyectoStratego/)
+*Juego basado en Stratego con temática de Marvel. Proyecto para la universidad.*
+
+
 
 ## 📫 Redes Sociales
 
