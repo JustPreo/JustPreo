@@ -1,6 +1,6 @@
 <img src="https://wallpapers.com/images/hd/initial-d-background-bs5uua2z6u5klxs8.jpg" width="100%" />
 
-# ¡Hola! Soy Preo
+# ¡Hola! Soy Aaron
 
 🎮 Me gusta jugar videojuegos
 
@@ -28,4 +28,3 @@
 SOY FRANCESCO VIRGOLINI , LA MAQUINA MAS VELOZ DE TOTE ITALIE
 FIAAAAAAUUUM
 
-¡Gracias por darte una vuelta por mi perfil! 🚗💨
