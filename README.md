@@ -17,7 +17,7 @@
 [![Marvel Stratego](https://img.shields.io/badge/Marvel%20Stratego-Proyecto%20Universidad-green?style=flat-square&logo=github)](https://github.com/ftMadrid/ProyectoStratego)
 *Juego basado en Stratego con temática de Marvel. Proyecto para la universidad.*
 
-[![Sokoban](https://img.shields.io/badge/Sokoban-green?style=flat-square&logo=github)](https://github.com/JustPreo/Sokoban)
+[![Sokoban](https://img.shields.io/badge/Sokoban-Proyecto%20Universidad-green?style=flat-square&logo=github)](https://github.com/JustPreo/Sokoban)
 *Juego parecido a Sokoban.*
 
 
