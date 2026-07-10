@@ -27,7 +27,7 @@ Juego basado en Stratego con temática de Marvel.
 **[Sokoban](https://github.com/JustPreo/Sokoban)** — Proyecto universitario
 Implementación de un juego tipo Sokoban.
 
-**[PortaKit](portakit.app)** — Web App
+**[PortaKit](https://portakit.app)** — Web App
 Herramienta web para crear portafolios de evidencias académicos y
 exportarlos a PDF.
 
