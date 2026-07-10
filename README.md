@@ -35,8 +35,7 @@ exportarlos a PDF.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Sebastian%20Cerrato%20Chinchilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aar
-on-sebastian-cerrato-chinchilla-68540824a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Sebastian%20Cerrato%20Chinchilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://hn.linkedin.com/in/aaron-sebastian-cerrato-chinchilla-68540824a)
 [![itch.io](https://img.shields.io/badge/itch.io-JustPreo-FA5C5C?style=flatlor=white)](https://justpreo.itch.io/)
 
 ---
