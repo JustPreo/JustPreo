@@ -1,30 +1,44 @@
-<img src="https://wallpapers.com/images/hd/initial-d-background-bs5uua2z6u5klxs8.jpg" width="100%" />
+# Aaron Sebastián Cerrato Chinchilla
 
-# ¡Hola! Soy Aaron
+**Estudiante de Ingeniería / Desarrollador de software**
 
-🎮 Me gusta jugar videojuegos
-
-💻 Me interesa mucho la programación y aprender cosas nuevas de tecnología
-
-🚴‍♂️ Mi deporte favorito es el ciclismo de ruta.
-
-## 💻 Proyectos destacados
-
-
-[![Marvel Stratego](https://img.shields.io/badge/Marvel%20Stratego-Proyecto%20Universidad-green?style=flat-square&logo=github)](https://github.com/ftMadrid/ProyectoStratego)
-*Juego basado en Stratego con temática de Marvel. Proyecto para la universidad.*
-
-[![Sokoban](https://img.shields.io/badge/Sokoban-Proyecto%20Universidad-green?style=flat-square&logo=github)](https://github.com/JustPreo/Sokoban)
-*Juego parecido a Sokoban.*
-
-
-
-## 📫 Redes Sociales
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Sebastian%20Cerrato%20Chinchilla-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aaron-sebastian-cerrato-chinchilla-68540824a/)
+Me apasiona la programación, aprender nuevas tecnologías y construir
+proyectos que resuelvan problemas reales.
 
 ---
 
-SOY FRANCESCO VIRGOLINI , LA MAQUINA MAS VELOZ DE TOTE ITALIE
-FIAAAAAAUUUM
+## 🛠️ Tecnologías
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🎮 Proyectos destacados
+
+**[After Closing Hours](https://justpreo.itch.io/after-closing-hours)** — Juego (Godot) · Publicado en itch.io
+Juego de supervivencia rápido ambientado en un casino después del cierre.
+
+**[Marvel Stratego](https://github.com/ftMadrid/ProyectoStratego)** — Proyecto universitario
+Juego basado en Stratego con temática de Marvel.
+
+**[Sokoban](https://github.com/JustPreo/Sokoban)** — Proyecto universitario
+Implementación de un juego tipo Sokoban.
+
+**[PortaKit](https://github.com/JustPreo/PortaKit)** — Web App
+Herramienta web para crear portafolios de evidencias académicos y
+exportarlos a PDF.
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Sebastian%20Cerrato%20Chinchilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aar
+on-sebastian-cerrato-chinchilla-68540824a/)
+[![itch.io](https://img.shields.io/badge/itch.io-JustPreo-FA5C5C?style=flatlor=white)](https://justpreo.itch.io/)
+
+---
+
+<sub>💡 Me gusta el ciclismo de ruta 🚴, los videojuegos y la tecnología.</sub>
